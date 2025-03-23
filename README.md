@@ -5,6 +5,11 @@
 This project demonstrates the automation of a **Java-based URL Shortener Application** using a **Jenkins Pipeline** and deploying it on an **AWS EC2 instance** using **Docker containers**.
 
 The pipeline automatically builds, packages, and runs the URL Shortener application inside a Docker container on the AWS Cloud, ensuring a fully containerized CI/CD workflow.
+## 🔗 Project Repository
+
+You can find the source code for the URL Shortener project here:
+
+[👉 URL Shortener GitHub Repo](https://github.com/Shreya3145/URL-Shortner)
 
 ---
 
